@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "Watch: Rohit Sharma Takes DRS After Virat Kohli Says \"Do Awaz Hai\". Then Umpire Does This In India vs West Indies 1st T20I | Cricket News - NDTVSports.com",
+            "description": "India vs West Indies: Virat Kohli was quick to run in and stump mics caught him saying, \"Do awaaz aya hai\" (I head two sounds). Rohit Sharma, after confirming that they have two reviews, went for the DRS.",
+            "url": "https://sports.ndtv.com/india-vs-west-indies-2022/rohit-sharma-takes-drs-after-virat-kohli-says-do-awaz-hai-following-ravi-bishnoi-appeal-then-umpire-does-this-in-india-vs-west-indies-1st-t20i-watch-2773036",
+            "urlToImage": "https://c.ndtvimg.com/2022-02/jduhemno_rohit-drs_625x300_17_February_22.jpg",
+            "publishedAt": "2022-02-17T04:26:25Z",
+            "content": "It's difficult to get the eyes off Rohit Sharma when the camera is on him, which is quite often the case now ever since he took over as India's limited-overs captain. He doesn't have that intense, ba… [+2337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Vedant Yadav",
+            "title": "Suresh Raina \"Lost Loyalty Of MS Dhoni\": Simon Doull On Former CSK Star Going Unsold In IPL Auction .. - NDTVSports.com",
+            "description": "Speaking on Suresh Raina getting unsold in the auction, former New Zealand cricketer Simon Doull listed \"two to three\" reasons that prompted CSK, as well as the other franchises, to ignore the veteran batter at the IPL auction.",
+            "url": "https://sports.ndtv.com/ipl-2022/suresh-raina-lost-loyalty-of-ms-dhoni-simon-doull-on-csk-star-going-unsold-in-ipl-auction-2022-2772971",
+            "urlToImage": "https://c.ndtvimg.com/2021-09/ei01bkd8_dhoni-raina-instagram_650x400_09_September_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-02-17T03:18:26Z",
+            "content": "Suresh Raina will not take part in the Indian Premier League (IPL) for the first time since the inception of the tournament back in 2008. Raina, who was released by the Chennai Super Kings (CSK) ahea… [+1604 chars]"
+        }
+    ]
+}
